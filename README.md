@@ -9,5 +9,4 @@ Implementation of the sEMG simulation model described in [Merletti et al. (1999)
 
 Run `pip install -r requirements.txt` to install the dependencies.
 
-See the `main.py` script for an example of use of the modules. This script simulates the example described in the original paper. 
-
+See the `main.py` script for an example of use of the modules. This script simulates the example described in the original paper. The obtained signals are shown in the `figs` folder.
